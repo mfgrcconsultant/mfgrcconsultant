@@ -24,7 +24,7 @@
 
 - 🛡️ **16 years** in IT & Information Security, **10 in GRC**, across UAE financial services and insurance
 - 🇦🇪 Hands-on with **UAE IA (NESA)** assessments, **ADHICS v2** remediation, **UAE PDPL** privacy programs, and **PCI DSS**
-- 🔐 Interim **DPO** experience: DPIAs, RoPA, privacy trackers, breach readiness
+- 🔐 **DPO** experience: DPIAs, RoPA, privacy trackers, breach readiness
 - 📊 Designed and reported **IT & InfoSec KRIs** to a Board-level Risk Committee
 - ⚙️ I turn regulations into **machine-readable controls, tools, and automation** with Python, YAML, and AI
 - 🎯 Mission: make UAE compliance **open, practical, and reusable** for every GRC team in the region
