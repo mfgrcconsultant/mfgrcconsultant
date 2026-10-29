@@ -9,7 +9,7 @@
 <h3 align="center">GRC Engineer · UAE Cyber & Privacy Compliance as Code</h3>
 
 <p align="center">
-  <i>أتمتة الحوكمة والمخاطر والامتثال لدولة الإمارات</i><br/>
+  أتمتة الحوكمة والمخاطر والامتثال لدولة الإمارات<br/>
   <sub>Automating Governance, Risk & Compliance for the UAE</sub>
 </p>
 
